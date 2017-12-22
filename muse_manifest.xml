@@ -1,0 +1,26 @@
+<manifest alg="2" build="2017.0.0.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="newyearbook.ru" resolutions="1x" timestamp="1510414723651">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="180161867" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="168988563" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="beautiful-winter-background-vector-material_34-59694.jpg" crc="128066361" ref="index"/>
+    <file name="без-имени-3-crop-u113.png" crc="3965841753" ref="index"/>
+    <file name="11.png" crc="333062616" seo="true" ref="index"/>
+    <file name="111.png" crc="4159924673" seo="true" ref="index"/>
+    <file name="1481404620__elf.png" crc="9820010" seo="true" ref="index"/>
+    <file name="1481404722__magic_wand.png" crc="4050102702" seo="true" ref="index"/>
+    <file name="1481404816__gift.png" crc="536584918" seo="true" ref="index"/>
+    <file name="weather.jpg" crc="332390285" ref="index"/>
+    <file name="11498x632.png" crc="220939706" seo="true" ref="index"/>
+  </folder>
+  <file name="index.html" crc="397307248" seo="true" mt="1510414703277" redirect="true"/>
+</manifest>
